@@ -4,6 +4,10 @@ A legal helper for four everyday problems in India: a deposit your landlord won'
 
 Type what happened in English, Hindi or a mix, or attach the paper you were given. It reads notices, rent agreements and bills (PDF, Word, or a phone photo), asks for anything still missing, then tells you where you stand, works out your deadline, gives you dated next steps and drafts the letter with your details already filled in.
 
+**Live app:** https://nyaya-saathi-gaurang.streamlit.app/
+
+**Solution doc:** [solution_doc.pdf](solution_doc.pdf) &nbsp; **Raw outputs:** [raw_outputs/](raw_outputs/)
+
 ![Welcome](docs/welcome.png)
 
 ## Run it
